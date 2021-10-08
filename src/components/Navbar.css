@@ -2,7 +2,8 @@
   display: flex;
   justify-content: space-between;
   position: fixed;
-  background-color: white;
+  /* background-color: white; */
+  background-color: rgb(15, 15, 15);
   width: 100vw;
   /* opacity: 1; */
   z-index: 1;
@@ -27,7 +28,8 @@
 
 .nav-link{
   text-decoration: none;
-  color: rgb(78, 3, 32);
+  /* color: rgb(78, 3, 32); */
+  color: rgb(197, 60, 113);
 }
 
 .nav{
@@ -38,7 +40,8 @@
 
 .nav a {
   text-decoration: none;
-  color: black;
+  /* color: black; */
+  color: white;
   margin: auto;
   margin-right: 20px;
   font-weight: bolder;

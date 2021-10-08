@@ -2,12 +2,13 @@
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
+  /* background: url("https://images.unsplash.com/photo-1523800503107-5bc3ba2a6f81?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"); */
   background: url("https://images.pexels.com/photos/1229862/pexels-photo-1229862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
-  margin-top: 6.5rem;
+  margin-top: 6rem;
 }
 
 .intro-txt {

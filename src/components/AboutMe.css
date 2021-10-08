@@ -1,0 +1,39 @@
+.about-me {
+  background: rgb(15, 15, 15);
+  color: white;
+  padding-top: 8%;
+}
+
+.abtme {
+  height: 20vh;
+  width: 100vw;
+  font-size: 60px;
+  /* padding-top: 8%; */
+  color: rgb(197, 60, 113);
+}
+
+.image {
+  height: 200px;
+  width: 200px;
+  border: black 1px solid;
+  border-radius: 50%;
+}
+
+.abtme-story h1 {
+  font-size: 40px;
+}
+
+.abtme-story h2 {
+  font-size: 30px;
+}
+
+.abtme-story h3 {
+  font-size: 25px;
+}
+
+.journey p {
+  font-size: 20px;
+  font-weight: bold;
+  width: 700px;
+  margin-left: 25%;  
+}
