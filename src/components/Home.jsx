@@ -1,7 +1,18 @@
 import React from 'react';
+
+// import { useEffect } from "react";
+// import { useLocation } from "react-router-dom";
+
 import './Home.css';
 
 function Home() {
+
+  // const { pathname } = useLocation();
+
+  // useEffect(() => {
+  //   window.scrollTo(0, 0);
+  // }, [pathname]);
+
   return (
     <div>
       <section id="homeId" className="intro">
@@ -15,7 +26,7 @@ function Home() {
             <div className="intro-list">
               <ul>
                 <li style={{"margin-right": "45px"}}>Designer</li>
-                <li>Developer</li>
+                <li style={{"margin-right": "45px"}}>Developer</li>
               </ul>
             </div>
             
