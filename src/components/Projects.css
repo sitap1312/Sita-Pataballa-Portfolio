@@ -1,0 +1,83 @@
+.mywork {
+  background-color: rgb(15, 15, 15);
+  color: white;
+  padding: 8%;
+}
+
+.sec-title {
+  font-size: 60px;
+  color: rgb(197, 60, 113);
+}
+
+.projects {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 4%;
+  height: auto;
+  justify-content: space-evenly;
+  /* margin-bottom: 10%; */
+}
+
+.project-link {
+  margin: 1%;
+  position: relative;
+}
+
+.project-link a{
+  text-decoration: none;
+  font-size: 30px;
+  color: rgb(197, 60, 113);
+}
+
+.project-link:hover .project-overlay {
+  opacity: 1;
+}
+
+.project-link:hover .project-img {
+  opacity: 0.3;
+}
+
+.project-overlay {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.project-img {
+  height: 300px;
+  width: 300px;
+  border: rgb(78, 3, 32) 2px solid;
+  border-radius: 10%;
+  display: block;
+  opacity: 1;
+  /* transition: .5s ease; */
+  transition: .3s ease-in-out;
+  transform: scale(1);
+  backface-visibility: hidden;
+}
+
+.project-img:hover {
+  border: solid 2px rgb(78, 3, 32);
+  /* box-shadow: 10px 10px 25px 15px rgb(243, 141, 180); */
+  transform: scale(1.2);
+}
+
+.project-name {
+  color: rgb(8, 8, 8);
+  background-color: rgb(197, 60, 113);
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 16px 32px;
+}
+
+.project-name:hover {
+  border: solid 1px rgb(78, 3, 32);
+  box-shadow: 10px 10px 25px 15px rgb(243, 141, 180);
+  transform: scale(1.2);
+}
+

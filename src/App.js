@@ -5,6 +5,7 @@ import Home from './components/Home';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import AboutMe from './components/AboutMe';
+import Projects from './components/Projects';
 
 function App() {
   return (
@@ -19,6 +20,10 @@ function App() {
 
       <section>
         <AboutMe />
+      </section>
+
+      <section>
+        <Projects />
       </section>
 
       <section>

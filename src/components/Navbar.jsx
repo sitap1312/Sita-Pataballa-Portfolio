@@ -13,27 +13,27 @@ function Navbar() {
       <div className="nav">
 
         <a href="/">
-          Home
+        🏚 Home
         </a>
 
         <br />
         
-        <a href="#aboutmeId" >
-          About Me
+        <a href="#aboutmeId">
+        🙂 About Me
         </a>
         
         <br />
         
-        <Link to="/projects" >
-          My Work
-        </Link>
+        <a href="#projectsId">
+        ⏳ My Work
+        </a>
         
         <br />
 
         
-        <Link to="/contact" >
-          Contact
-        </Link>
+        <a href="#contactId">
+        📨 Contact
+        </a>
 
         <br />
 
