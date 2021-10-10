@@ -1,17 +1,7 @@
 import React from 'react';
-
-// import { useEffect } from "react";
-// import { useLocation } from "react-router-dom";
-
 import './Home.css';
 
 function Home() {
-
-  // const { pathname } = useLocation();
-
-  // useEffect(() => {
-  //   window.scrollTo(0, 0);
-  // }, [pathname]);
 
   return (
     <div>
@@ -35,7 +25,7 @@ function Home() {
                 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
 
                 <div className="sm-link">
-                  <a href="https://www.linkedin.com/in/sita-pataballa-41963b206/" className="fa fa-linkedin" style={{"text-decoration": "none", "color": "white"}}></a>
+                  <a href="https://www.linkedin.com/in/sita-pataballa-41963b206/" className="fa fa-linkedin" style={{"text-decoration": "none", "color": "white"}}> </a>
                 </div>
                 <div className="sm-link">
                   <a href="https://github.com/sitap1312" className="fa fa-github" style={{"text-decoration": "none", "color": "white"}}> </a>

@@ -5,7 +5,7 @@ function AboutMe() {
   return (
       <section id="aboutmeId" className="about-me">
           <div className="sec-title">
-            ABOUT ME
+            About Me
           </div>
 
           <div className="description">
@@ -52,16 +52,16 @@ function AboutMe() {
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
 
             <div className="sm-link">
-              <a href="https://www.linkedin.com/in/sita-pataballa-41963b206/" className="fa fa-linkedin" style={{"text-decoration": "none", "color": "white"}}></a>
+              <a href="https://www.linkedin.com/in/sita-pataballa-41963b206/" className="fa fa-linkedin" style={{"text-decoration": "none", "color": "white"}} > </a>
             </div>
             <div className="sm-link">
-              <a href="https://github.com/sitap1312" className="fa fa-github" style={{"text-decoration": "none", "color": "white"}}> </a>
+              <a href="https://github.com/sitap1312" className="fa fa-github" style={{"text-decoration": "none", "color": "white"}} > </a>
             </div>
             <div className="sm-link">
-              <a href="https://twitter.com/AyyagariMadhu" className="fa fa-twitter" style={{"text-decoration": "none", "color": "white"}}> </a>
+              <a href="https://twitter.com/AyyagariMadhu" className="fa fa-twitter" style={{"text-decoration": "none", "color": "white"}} > </a>
             </div>
             <div className="sm-link">
-              <a href="https://www.instagram.com/madhuayyagari/" className="fa fa-instagram" style={{"text-decoration": "none", "color": "white"}}> </a>
+              <a href="https://www.instagram.com/madhuayyagari/" className="fa fa-instagram" style={{"text-decoration": "none", "color": "white"}} > </a>
             </div>
         </div>
       </section>

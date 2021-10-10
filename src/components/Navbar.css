@@ -2,54 +2,46 @@
   display: flex;
   justify-content: space-between;
   position: fixed;
-  /* background-color: white; */
   background-color: rgb(15, 15, 15);
   width: 100vw;
-  /* opacity: 1; */
   z-index: 2;
 }
 
 .links button{
-  /* background-color: rgb(148, 49, 87); */
   background-color: rgb(131, 2, 52);
   color: white;
   border-radius: 10px;
   cursor: pointer;
-  margin: 10px;
   width: 100px;
-  height: 25px;
-  font-size: 15px;
+  height: auto;
+  font-size: 17px;
   font-weight: bold;
 }
 
 .links button:hover{
   background-color: rgb(148, 49, 87);
-  opacity: 0.8;
 }
 
 .nav-link{
   text-decoration: none;
-  /* color: rgb(78, 3, 32); */
   color: rgb(197, 60, 113);
 }
 
 .nav{
   display: flex;
-  /* float: right; */
   margin-top: 50px;
 }
 
 .nav a {
   text-decoration: none;
-  /* color: black; */
+  font-size: 17px;
   color: white;
-  margin: auto;
-  margin-right: 20px;
+  margin-right: 2rem;
   font-weight: bolder;
 }
 
 .nav a:hover {
-  color: rgb(78, 3, 32);
+  color: rgb(197, 60, 113);
 }
 
 .header h1 {
@@ -58,53 +50,30 @@
 }
 
 @media only screen and (max-width: 700px) {
-  .nav-link{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    max-width: 75vw;
-  }
-  .header img {
-    border-radius: 10px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin: 0;
-  }
-
-  .header h1 {
-    font-size: x-large;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    justify-content: center;
-    width: 100vw;
-    text-decoration: none;
-  }
-
-  .links button{
-    background-color:lavender;
-    border-radius: 10px;
-    cursor: pointer;
-    margin: 5px;
-    /* width: 75%; */
-    height: 25px;
-  }
 
   .links {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    width: 100%;
+    align-items: center;  
   }
 
-  .nav{
-    max-width: 25vw;
+  .header h1 {
+    font-size: 40px;
+    width: 100%;
+  }
+
+  .nav a{
     display: flex;
-    flex-direction: column;
     justify-content: center;
-    align-items: center;
-    margin: 0;
+    font-size: 28px;
+    font-weight: bolder;
+  }
+
+  .links button{
+    font-size: 28px;
+    font-weight: bolder;
+    height: auto;
   }
 }
