@@ -18,8 +18,8 @@ function Contact() {
         <br />
 
         <div className="cont-links">
-          <a href="mailto: sitapataballa1312@gmail.com" class="fa fa-google"> </a> &nbsp;
-          <a href="https://www.linkedin.com/in/sita-pataballa-41963b206/" class="fa fa-linkedin"> </a>
+          <a href="mailto: sitapataballa1312@gmail.com" className="fa fa-google"> </a> &nbsp;
+          <a href="https://www.linkedin.com/in/sita-pataballa-41963b206/" className="fa fa-linkedin"> </a>
         </div>
         <br />
         <br />
@@ -31,7 +31,7 @@ function Contact() {
         <br />
 
         <div className="cont-links">
-          <a href="https://github.com/sitap1312" class="fa fa-github"> </a>
+          <a href="https://github.com/sitap1312" className="fa fa-github"> </a>
         </div>
       </div>
     </section>

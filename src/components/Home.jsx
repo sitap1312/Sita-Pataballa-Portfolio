@@ -15,8 +15,8 @@ function Home() {
             </div>
             <div className="intro-list">
               <ul>
-                <li style={{"margin-right": "45px"}}>Designer</li>
-                <li style={{"margin-right": "45px"}}>Developer</li>
+                <li>Designer</li>
+                <li>Developer</li>
               </ul>
             </div>
             
@@ -25,16 +25,16 @@ function Home() {
                 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
 
                 <div className="sm-link">
-                  <a href="https://www.linkedin.com/in/sita-pataballa-41963b206/" className="fa fa-linkedin" style={{"text-decoration": "none", "color": "white"}}> </a>
+                  <a href="https://www.linkedin.com/in/sita-pataballa-41963b206/" className="fa fa-linkedin"> </a>
                 </div>
                 <div className="sm-link">
-                  <a href="https://github.com/sitap1312" className="fa fa-github" style={{"text-decoration": "none", "color": "white"}}> </a>
+                  <a href="https://github.com/sitap1312" className="fa fa-github" > </a>
                 </div>
                 <div className="sm-link">
-                  <a href="https://twitter.com/AyyagariMadhu" className="fa fa-twitter" style={{"text-decoration": "none", "color": "white"}}> </a>
+                  <a href="https://twitter.com/AyyagariMadhu" className="fa fa-twitter" > </a>
                 </div>
                 <div className="sm-link">
-                  <a href="https://www.instagram.com/madhuayyagari/" className="fa fa-instagram" style={{"text-decoration": "none", "color": "white"}}> </a>
+                  <a href="https://www.instagram.com/madhuayyagari/" className="fa fa-instagram" > </a>
                 </div>
               </div>
           </div>

@@ -81,20 +81,20 @@
 }
 
 
-@media (max-width: 650px) {
+@media only screen and (max-width: 700px) {
   .mywork {
-    width: 1000px;
+    /* width: 1000px; */
+    width: 100vw;
   }
 
   .sec-title {
     font-size: 40px;
+    font-weight: bold;
   }
 
   .projects {
     display: flex;
-    flex-direction: row;
     justify-content: space-evenly;
-    padding: 4%;
-    height: auto;
+    height: 100vh;
   }
 }

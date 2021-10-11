@@ -13,26 +13,26 @@ function Navbar() {
       <div className="nav">
 
         <a href="/">
-        🏚 Home
+        Home
         </a>
 
         <br />
         
         <a href="#aboutmeId">
-        🙂 About Me
+        About Me
         </a>
         
         <br />
         
         <a href="#projectsId">
-        ⏳ My Work
+        My Work
         </a>
         
         <br />
 
         
         <a href="#contactId">
-        📨 Contact
+        Contact
         </a>
 
         <br />
