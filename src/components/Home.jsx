@@ -16,7 +16,7 @@ function Home() {
           
           <div className="intro-txt">
             <span className="block"></span>
-            {/* <h1>Hello...<span></span></h1> */}
+            {/* <h1>Hello....<span></span></h1> */}
             <h1>Sita Pataballa<span></span></h1>
           </div>
 
@@ -30,8 +30,8 @@ function Home() {
           
             <div className="intro-list">
             <ul>
-            ✳ Designer 
-            ✳ Developer
+            • Designer 
+            • Developer
             </ul>
             </div>
             

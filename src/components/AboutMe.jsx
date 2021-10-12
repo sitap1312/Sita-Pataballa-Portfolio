@@ -20,28 +20,28 @@ function AboutMe() {
               <div className="journey">
                 <h3>My Journey</h3>
                 <p>
-                  My interest in web development started when I was 23 years old
-                  and began to try desiginig some web applications using HTML and CSS
-                  as a practice. I wanted to land my profession as web Developer.
-                  I spent most my time over designing various web application as a practice out of
-                  interest, using HTML and CSS, not really having a clue what I was doing,
-                  but loving every second of it.
+                  My interest in web development started when I was 23 years old and began
+                  designing some web applications using HTML and CSS as a practice.
+                  I wanted to land my profession as a web Developer, so I spent most of my
+                  time designing various web applications as a practice out of interest,
+                  using HTML and CSS, not having a clue what I was doing but loving every
+                  second of it.
+              <br />
+              <br />
+                  Then I decided to take my interest and basic skills to the next level and
+                  joined a Bootcamp, where I received training on Full Stack Web Development
+                  and got hands-on experience while doing four different projects using
+                  JavaScript, HTML5, CSS3, React, MongoDB, Express, Node.js and Ruby.
+              <br />
+              <br />
+                  I wanted to be the most hands-on professional, and make sure that
+                  my vision wasn’t tainted by the opinions of others.
                   <br />
-                  Then I decided to take my interest and my basic skills to next level and joined a
-                  bootcamp, where I got trained on Full Stack Web Development. Got hands on experience
-                  while doing 4 different projects using JavaScript, HTML5, CSS3, React, MongoDB
-                  and Express, Node.js.
-                  <br />
-                  I wanted to be the most hands on professional,
-                  and make sure that my vision wasn’t tainted by the views of
-                  anyone else.
-                  <br />
-                  In the end, I was so excited
-                  when people asked me who built my professional website,
-                  and without hesitation I could proudly say myself.
-                  Fast forward to today, I am equipped to independently develop applications using
-                  creative problem-solving and I have become fluent in multiple programming languages. I can write
-                  clean, scalable code, that is also user friendly.
+                  In the end, I was so excited when people asked me who built my professional
+                  website, and without hesitation, I could proudly say myself. Fast forward
+                  to today, I am equipped to independently develop applications using
+                  creative problem-solving as I have become fluent in multiple programming
+                  languages. I can write clean and scalable code that is also user-friendly.
                 </p>
               </div>
             </div>
