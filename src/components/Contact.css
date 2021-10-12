@@ -28,8 +28,6 @@
   border-radius: 50%;
   font-size: 30px;
   color: white;
-  /* color: #666; */
-  /* color: rgb(78, 3, 32); */
   transition: .5s;
   margin: 0 1% 0 1% ;
 }
@@ -58,12 +56,11 @@
 
 @media only screen and (max-width: 700px) {
   .contact {
-    /* width: 1000px; */
     width: 100%;
   }
 
   .sec-title {
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bold;
   }
 
@@ -72,10 +69,10 @@
   }
 
   .cont h2 {
-    font-size: 28px;
+    font-size: 22px;
   }
   
   .cont h4 {
-    font-size: 20px;
+    font-size: 15px;
   }
 }

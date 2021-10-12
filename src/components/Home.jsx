@@ -7,17 +7,32 @@ function Home() {
     <div>
       <section id="homeId" className="intro">
           <div className="intro-container">
-            <div className="intro-txt">
+            {/* <div className="intro-txt">
               <h1>Hello...</h1>
               <h1>
                 <span>I'm a Front-End Developer.</span>
               </h1>
-            </div>
+            </div> */}
+          
+          <div className="intro-txt">
+            <span className="block"></span>
+            {/* <h1>Hello...<span></span></h1> */}
+            <h1>Sita Pataballa<span></span></h1>
+          </div>
+
+          <br />
+          <div className="role">
+            <div className="block"></div>
+            <p>Front-End Developer.</p>
+          </div>
+          
+
+          
             <div className="intro-list">
-              <ul>
-                <li>Designer</li>
-                <li>Developer</li>
-              </ul>
+            <ul>
+            ✳ Designer 
+            ✳ Developer
+            </ul>
             </div>
             
               <div className='intro-links'>

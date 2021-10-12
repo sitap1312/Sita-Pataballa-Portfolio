@@ -43,32 +43,31 @@
 
 @media only screen and (max-width: 700px) {
   .sec-title {
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bold;
   }
 
   .about-me {
-    /* width: 1000px; */
-    width: 100vw;
+    width: 100%;
   }
 
   .abtme-story h1 {
-    font-size: 32px;
+    font-size: 23px;
     text-align: center;
   }
   
   .abtme-story h2 {
-    font-size: 28px;
+    font-size: 20px;
     text-align: center;
   }
   
   .abtme-story h3 {
-    font-size: 25px;
+    font-size: 18px;
     text-align: center;
   }
 
   .journey p {
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
     width: 100vw;
     margin-left: 0rem;  
