@@ -23,7 +23,7 @@ function Home() {
           <br />
           <div className="role">
             <div className="block"></div>
-            <p>Front-End Developer.</p>
+            <p>Full Stack Web-Developer.</p>
           </div>
           
 
