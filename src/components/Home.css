@@ -230,7 +230,8 @@ span {
   background: #333;
   border-radius: 50%;
   font-size: 30px;
-  color: rgb(235, 233, 233);
+  /* color: rgb(235, 233, 233); */
+  color: rgb(78, 3, 32);
   transition: .5s;
 }
 
