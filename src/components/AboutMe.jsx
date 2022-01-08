@@ -22,6 +22,13 @@ function AboutMe() {
                 <p>
                   My interest in web development started when I was 23 years old and began
                   designing some web applications using HTML and CSS as a practice.
+              <br />
+                  And on the side I got trained on Business Analysis where I worked on the
+                  Retail Project as a Project Manager / Business Analyst.
+                  Created Business Requirement Document, Use Cases,
+                  Project Road Map, GAP Analysis and ER Diagram, which is very
+                  useful and clearly understandable for the Stakeholders.
+              
                   I wanted to land my profession as a web Developer, so I spent most of my
                   time designing various web applications as a practice out of interest,
                   using HTML and CSS, not having a clue what I was doing but loving every

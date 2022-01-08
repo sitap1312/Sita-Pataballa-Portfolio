@@ -30,8 +30,9 @@ function Home() {
           
             <div className="intro-list">
             <ul>
-            • Designer 
-            • Developer
+              • Designer 
+              • Developer
+              • Business Analyst / Project Manager
             </ul>
             </div>
             
